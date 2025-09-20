@@ -1,1 +1,1 @@
-IAN FALANDO: código tá básico e apenas uma simples tela de pesquisa aparece por enquanto, a ideia é trabalhar emcima disso, adicionando banco de dados com tela de login e um servidor pra manter sempre ligado.
+IAN FALANDO: código tá básico e apenas uma simples tela de pesquisa aparece por enquanto, a ideia é trabalhar encima disso, adicionando banco de dados com tela de login e um servidor pra manter sempre ligado.
